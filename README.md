@@ -1,7 +1,7 @@
 game-sales
 ==============================
 
-# To be completed
+To be completed
 
 Project Organization
 ------------
